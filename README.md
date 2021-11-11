@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Judson-web/Mephisto/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Judson-web/EvaMaria/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
