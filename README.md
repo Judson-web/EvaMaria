@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Judson-web/Mephisto
+git clone https://github.com/Judson-web/Mephisto-V2
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
