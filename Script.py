@@ -10,6 +10,17 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ MY Cᴏᴍᴍᴀɴᴅs."""
 ✯ Dᴀᴛᴀ Bᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ
 ✯ ⲂⲞⲦ SᴇʀᴠᴇʀꞄ: Hᴇʀᴏᴋᴜ
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v1.0.1 [ Bᴇᴛᴀ ]"""
+   JSON_TXT ="""<b>Jsᴏɴ Mᴏᴅᴜʟᴇ</b>
+JSON:
+Bᴏᴛ ʀᴇᴛᴜʀɴs ᴊsᴏɴ ғᴏʀ ᴀʟʟ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇs ᴡɪᴛʜ /json
+
+Fᴇᴀᴛᴜʀᴇs:
+Mᴇssᴀɢᴇ Eᴅɪᴛᴛɪɴɢ JSON
+Pᴍ Sᴜᴘᴘᴏʀᴛ
+Gʀᴏᴜᴘ Sᴜᴘᴘᴏʀᴛ
+
+Nᴏᴛᴇ:
+Eᴠᴇʀʏᴏɴᴇ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ , ɪғ sᴘᴀᴍɪɴɢ ʜᴀᴘᴘᴇɴs ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʙᴀɴ ʏᴏᴜ ғʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ"""
     SOURCE_TXT = """<b>ᴺᴼᵀᴱ:</b>
 - <a href='https://t.me/Mephistov3_bot'>Mᴇᴘʜɪsᴛᴏ</a> Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
 - Sᴏᴜʀᴄᴇ - <a href='https://github.com/Judson-web/Mephisto'>Cʟɪᴄᴋ Mᴇ</a>
